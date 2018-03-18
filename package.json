@@ -1,9 +1,10 @@
 {
+//this is app.js package
   "name": "application-name",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "3.4.8",
